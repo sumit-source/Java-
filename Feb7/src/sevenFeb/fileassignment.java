@@ -4,7 +4,8 @@ public class fileassignment
 {
 public static void main(String[] args)
 {
-	rownumber = 2;
-public void ReadData(int rownumber)
+	int a;
+for (int i=0; i<10; i++)
+	System.out.println("This is for testing");
 }
 }
